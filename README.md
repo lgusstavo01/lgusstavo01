@@ -1,5 +1,5 @@
 - 👋 Olá, sou Luiz Gustavo.
-- 👀 Estou procuranndo me especializar como desenvolvedor e conseguir um emprego como Dev.
+- 👀 Estou procurando me especializar como desenvolvedor e conseguir um emprego como Dev.
 - 🌱 No momento estou estudando mais a fundo a linguagem Java.
 - 📫 Contatos: 
 -       Tel = (71) 9 9342-2333
