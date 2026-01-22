@@ -2,7 +2,7 @@
 
 Sou um entusiasta de tecnologia e estudante de programação focado em desenvolver soluções modernas e eficientes. Atualmente, dedico meus estudos ao domínio do **Java** para o backend e ao ecossistema **JavaScript** para interfaces dinâmicas.
 
-- 🎓 Atualmente cursando [Insira aqui seu curso/faculdade]
+- 🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas
 - 💻 Focado em: Java, Spring Boot, JavaScript e React.
 - 🚀 Procuro sempre estar atualizado com as demandas do mercado.
 - 📬 Contato: l.gusstavo01@gmail.com
@@ -22,7 +22,6 @@ Sou um entusiasta de tecnologia e estudante de programação focado em desenvolv
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lgusstavo01&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgusstavo01&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
@@ -30,6 +29,7 @@ Sou um entusiasta de tecnologia e estudante de programação focado em desenvolv
 
 ### 🔗 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINK-AQUI)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]
+(https://www.linkedin.com/in/luiz-gustavo-379517258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:l.gusstavo01@gmail.com)
 
